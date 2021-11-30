@@ -374,7 +374,7 @@
       
     - name: 校历
       style: basic
-      url: https://www.cjlu.edu.cn/xxfw1/xxxl.htm
+      url: https://jwcwx.cjlu.edu.cn/teacher/F2015
 
     - name: ⢭iCloud
       style: basic
@@ -508,7 +508,8 @@
 
     - name: Knavi
       style: grey
-      url: http://zhukm.github.io/      
+      url: http://zhukm.github.io/    
+  
 
       
 
